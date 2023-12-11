@@ -1,0 +1,5 @@
+/ExcelExtractor/bin
+/ExcelExtractor/obj
+/ExcelExtractor/appsettings.*
+
+!/ExcelExtractor/appsettings.example.json
